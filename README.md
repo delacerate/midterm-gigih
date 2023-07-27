@@ -1,7 +1,7 @@
-#TOKOPEDIA clone, still backend only
-#database collections schema 
+# TOKOPEDIA clone, still backend only
+# database collections schema 
 
-## Table of content
+## Table of contaent
 * [Database Structure](#database-structure)
 
 
