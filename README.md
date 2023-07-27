@@ -4,9 +4,38 @@
 ## Table of contaent
 * [Database Structure](#database-structure)
 
+## Database Structure
+### videos
+```
+{
+  "VideoID": "string",
+  "Url": "string",
+  "Thumbnail": "string"
+}
 
+```
+### products 
+```
+{
+  "ProductID": "string",
+  "Link": "string",
+  "Title": "string",
+  "Price": "number",
+  "VideoID": "string"
+}
+```
 
-##How to run locally
+### users
+```
+{
+  "Username": "string",
+  "Comment": "string",
+  "Timestamp": "date",
+  "VideoID": "string"
+}
+```
+
+## How to run locally
 1. clone this repository
 2. run command 'npm install'
  (make sure the downloaded all the required dependencies) 
