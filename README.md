@@ -87,7 +87,7 @@ Returns the details of a specific video based on the provided videoId.
   "title": "Product Title",
   "price": 19.99
 }
-
+```
 ### comments endpoint
 
 - GET /api/comments/:videoId
@@ -106,8 +106,7 @@ Returns the details of a specific video based on the provided videoId.
         Success Response
             Code: 200
             Content:
-
-            json
+```
 
         {
           "comments": [
@@ -123,6 +122,7 @@ Returns the details of a specific video based on the provided videoId.
             }
           ]
         }
+```
 ### comments endpoint
 - POST /api/comments
 
