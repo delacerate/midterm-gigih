@@ -4,7 +4,7 @@
 ## Table of content
 * [Database Structure](#database-structure)
 * [API Structures](#api-structures)
-* [RUN locally] (#how-to-run-locally)
+* [RUN Locally](#how-to-run-locally)
 
 ## Database Structure
 ### videos
